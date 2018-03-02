@@ -1,0 +1,58 @@
+#banner{
+  text-align: center;
+  background-image: linear-gradient(rgba(49, 49, 49, 0.6), rgba(49, 49, 49, 0.6)), url("image/banner.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 200px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.logo{
+	width: 100px;
+	height: 100px;
+}
+
+.carte{
+	text-align: center;
+	padding: 32px;
+}
+
+.inscrire{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+.depart{
+	color: red;
+}
+
+#text{
+	text-align: center;
+	font-weight: bold; 
+	padding:35px;
+	font-size: 20px;
+}
+
+.titre{
+	padding: 30px;
+	font-weight: bold; 
+	text-align: justify;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  margin-top: 24px;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 25px;
+}
+
+#footer a:hover {
+  color: white;
+}
